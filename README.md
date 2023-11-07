@@ -1,2 +1,2 @@
 # projetobotoes
-Projeto para aula e prog.
+Projeto para aula de prog.
